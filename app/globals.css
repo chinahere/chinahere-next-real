@@ -1,0 +1,4 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+html{scroll-behavior:smooth} body{background:#07111f;color:white} .glass{background:linear-gradient(180deg,rgba(255,255,255,.08),rgba(255,255,255,.035));border:1px solid rgba(255,255,255,.12);backdrop-filter:blur(14px)} .goldText{background:linear-gradient(90deg,#D4AF37,#f8df90);-webkit-background-clip:text;background-clip:text;color:transparent} input,select,textarea{color:white} option{color:#111}
